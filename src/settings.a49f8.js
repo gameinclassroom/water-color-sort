@@ -1,0 +1,1 @@
+window._CCSettings={platform:"web-mobile",groupList:["default"],collisionMatrix:[[true]],hasResourcesBundle:true,hasStartSceneBundle:false,remoteBundles:[],subpackages:[],launchScene:"db://assets/preload/scenes/Preload.fire",orientation:"portrait",jsList:["assets/utils/lodash.d8e4b.js"],bundleVers:{internal:"52d36",resources:"25224",main:"bd586"}};
